@@ -23,7 +23,7 @@ public class StudentClass extends Person {
 		}
 		
 		public String toString() {
-			return "Marks: "+this.marks+" Div "+this.div;
+			return "Marks: "+this.marks+" | Div "+this.div;
 		}
 	
 }

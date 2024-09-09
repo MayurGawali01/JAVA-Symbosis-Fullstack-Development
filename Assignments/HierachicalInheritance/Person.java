@@ -32,7 +32,7 @@ public class Person {
 	}
 	
 	public String toString() {
-		return "Name :"+this.name +"City: "+this.city+"";
+		return "Name :"+this.name +"| City: "+this.city+"";
 	}
 }
 

@@ -28,6 +28,6 @@ public class EmployeeClass extends Person{
 	}
 	
 	public String toString() {
-		return "Department: "+this.dept+"Employee Id:"+this.empId;
+		return "Department: "+this.dept+" | Employee Id:"+this.empId;
 	}
 }
